@@ -3,7 +3,7 @@
 EMA is a modular Discord bot built for control, comfort, and scale.
 
 **Bot Name:** EMA  
-**Made by:** reaper_official  
+**Made by:** reaper_official_  
 **Official Server:** Cuddles  
 **Invite:** https://discord.gg/5Mha4K3PZ3
 
